@@ -15,6 +15,8 @@ The dataset encompasses fundamental Reddit information, such as author details, 
 ### 3.2. Approach
 The project addresses two specific issues through analytical examination, constructing distinct models for each problem. The modeling approach for sentiment analysis is elucidated, while the methodology employed for trending topic identification is outlined. An experiment is conducted aimed at gaining a comprehensive understanding of the predominant topics within diverse subreddit communities and their corresponding sentiments.
 
+![flowchart](flowchart.png)
+
 ## 4. Results and Analysis
 The findings are categorized into three distinct subsections, as illustrated below. This division allows for a more focused analysis within each section. Additionally, this structured approach enhances the clarity and comprehensibility of our results, aiding in the extraction of meaningful insights from the research outcomes.
 
