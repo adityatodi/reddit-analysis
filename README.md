@@ -1,1 +1,1 @@
-[Reddit Analysis](reddit-analysis.pdf)
+[embed]reddit-analysis.pdf[/embed]
