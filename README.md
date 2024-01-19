@@ -1,4 +1,4 @@
-# Analyzing User Behavior, Trends and Communities using Reddit Posts
+# Reddit Data Science Study: Sentiment, Trends, and Community Dynamics
 
 ## 1. Introduction
 This project revolves around leveraging Reddit data to gain valuable insights and trends. Reddit supports a vast variety of discussion and content without many restrictions, enabling users to put forth their opinions free of reservations. Analyzing such posts and comments on Reddit can serve as a good opinion when compared to obtaining information from a single source which may be tainted due to restrictions/guidelines. The project aims to address sentiment analysis of subreddits and identifying trending topics across various subreddits.
